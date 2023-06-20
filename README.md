@@ -1,3 +1,7 @@
+Test data:
+username1: user1, password1: pass1
+username2: user2, password2: pass2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
